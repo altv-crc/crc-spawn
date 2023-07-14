@@ -1,8 +1,6 @@
-# [CRC][TS] Select Character
+# [CRC][TS] Spawn
 
 <sup>Supported by <a href="https://github.com/orgs/altv-crc/">CRC</a></sup>
-
-![](https://i.imgur.com/VCpvEJ6.png)
 
 Spawns a fresh character, or uses existing `pos` to spawn the player.
 
